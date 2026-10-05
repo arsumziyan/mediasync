@@ -340,4 +340,4 @@ The iOS app currently has no automated tests.
 
 ## License
 
-Choose a license before publishing (e.g. [MIT](https://choosealicense.com/licenses/mit/)) and add a `LICENSE` file.
+MIT License. Built for educational purpose.
